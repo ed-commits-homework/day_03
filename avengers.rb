@@ -15,3 +15,5 @@ avengers = {
         power: 30
     }
 }
+
+p avengers[:hulk][:power]
